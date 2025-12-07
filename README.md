@@ -1,6 +1,6 @@
 # Economic Factors and S&P 500 Analysis
 DATA 201 Final Project, Fall 2025  
-Ezenwanyi Duru & Erika Holbrook
+Ezey Duru & Erika Holbrook
 
 ## Overview
 This project analyzes how key macroeconomic indicators relate to movements in the S&P 500 between 2006 and 2010, including the 2008 financial crisis. Using Python, we merged time-series data from FRED and Yahoo Finance, engineered trend-based trading signals, and applied regression, classification, and clustering methods to understand how economic environments shape market behavior.
